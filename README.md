@@ -1,0 +1,2 @@
+# LuckyGo
+go language
